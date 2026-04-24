@@ -1,13 +1,5 @@
-# CHIMERA Name
+# Detrattore detentore
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+La Chimera rappresentata è un prodotto di ciò che noi come genere umano siamo riusciti a creare. Questa forma è il connubio di più elementi, che spaziano dall’esistente (quali il volto di gorilla e le ali di vespa) al creato (quali il compasso inteso come strumento di misurazione e la “palla da piede” intesa come strumento di limitazione).
+Il termine compasso deriva dal verbo compassare, avente come prefisso cum- (”con”) e come suffisso passus- (”passo”). Letteralmente tradotto come “Misurare con passi”. É interessante ricordare che da COMPASSARE deriva l’aggettivo COMPASSATO, che descrive una persona o un modo di fare lento, misurato e preciso.
+Detrattore detentore è quella figura che, appropriandosi dei mezzi e delle conoscenze condivise globalmente, ne sfrutta tutte le possibilità. La palla al piede sta ad indicare le limitazioni dovute all’inesperienza, alla poca conoscenza dei mezzi di cui ci si è appropriati, e quindi l’impossibilità di muoversi come si vorrebbe. Le ali rappresentano il simbolo per eccellenza di libertà, la volontà dell’essere di librarsi e svincolarsi dalle insidie. L’appropriarsi di esse rappresenta invece per Detrattore Detentore una costrizione, qualcosa che non essendo in grado di usare pienamente lo limita e lo intrappola nella morsa dell’inappropriatezza. 
